@@ -1,0 +1,33 @@
+body{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+.calculator{
+    background-color: blanchedalmond;
+    border: 3px solid black;
+    border-radius: 20px;
+    height: 22rem;
+    width: 20rem;
+    margin: 10% 40%;
+}
+input{
+    height: 2rem;
+    width: 9rem;
+    font-weight: bold;
+}
+select{
+    height: 2rem;
+    width: 3rem;
+}
+button{
+    height: 2rem;
+    width: 5rem;
+    font-weight: bold;
+    border-radius: 10px;
+}
+input:hover{
+    border: 2px solid black;
+}
+button:hover{
+    background-color:bisque;
+}
